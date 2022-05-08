@@ -1,0 +1,8 @@
+d3bf9897d6e8810fae9fa50da3d4b50234d8dd8f (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from agiklo/wikipedia
+2e8fc8234317751c6ecad86b67e241186c277220 (tag: v1.1, origin/wikipedia, wikipedia) Wikipedia Day Events
+afd63f60701c09c439f254b25612a56717670dc0 Wikipedia Day
+1f66994c7586fd83731f5ea17d4426068fa15f05 Merge pull request #1 from agiklo/interlingwa
+3405fbfc766397a7f32cda98b709565cb0d01054 (tag: v1.0) Fundamenty fenomenu interlingwy
+4244266fdbda94065ea91b197c6044d446af1cee Opis dnia interlingwy
+cf5aa698c0bd65416b0d8d3542c00e1f40ff5d82 Dzień interlingwy
+36ef46b98e289edd9e70237f2ab0455746139b8c Initial commit
